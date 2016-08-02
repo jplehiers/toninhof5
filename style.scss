@@ -1,0 +1,50 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster';
+
+*{
+	padding:0;
+	margin:0;
+}
+
+.construct {
+
+  
+background: url(../img/contagem.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height:600px; 
+ 
+ .toninho{
+ 	width: 400px;
+ 	height: 350px;
+ 	position:relative;
+    left:50px;
+    top: 100px;
+ }
+
+h1{
+  font-size: 4.6em;
+  color: #fff;
+  text-align: center;
+  font-family: 'Lobster', cursive; 
+  position:relative;
+  left:100px;
+  top: 200px;
+}
+}
+ .footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  background-color:#222;
+  height: 70px;
+.psd{
+    width: 90px;
+    height: 50px;
+    padding-top:10px
+
+ }
+}
